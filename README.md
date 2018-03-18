@@ -36,3 +36,7 @@
 ### 9. Tutorial of implementing Variational Auto-Encoder
 - ["*Auto-Encoding Variational Bayes*"](https://arxiv.org/pdf/1312.6114.pdf) 논문에서 소개된 Variational Auto-Encoder의 간단한 구현 (with mnist)
 - [Tutorial of implementing Variational Auto-Encoder.ipynb](https://github.com/aisolab/TF_code_examples_for_Deep_learning/blob/master/Tutorial%20of%20implementing%20Variational%20Auto-Encoder.ipynb)
+
+### 10. Tutorial of implementing Generative Adversarial Net
+- ["*Generative Adversarial Nets*"](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) 논문에서 소개된 Generative Adversarial Net의 간단한 구현 (with mnist)
+- [Tutorial of implementing Generative Adversarial Net.ipynb](https://github.com/aisolab/TF_code_examples_for_Deep_learning/blob/master/Tutorial%20of%20implementing%20Generative%20Adversarial%20Net.ipynb)
