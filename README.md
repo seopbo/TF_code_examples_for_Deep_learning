@@ -30,7 +30,7 @@
 - [Tutorial of implementing Class activation map.ipynb](https://github.com/aisolab/TF_code_examples_for_Deep_learning/blob/master/Tutorial%20of%20implementing%20Class%20activation%20map.ipynb)
 
 ### 8. Tutorial of implementing Word2Vec
-- Word2Vec의 skip-gram의 간단한 구현 (김진중님 코드참고)
+- Word2Vec의 skip-gram의 간단한 구현
 - 추후 Word2Vec cbow 구현 추가
 - [Tutorial of implementing Word2Vec.ipynb](https://github.com/aisolab/TF_code_examples_for_Deep_learning/blob/master/Tutorial%20of%20implementing%20Word2Vec.ipynb)
 
