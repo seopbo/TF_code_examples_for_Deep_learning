@@ -29,18 +29,23 @@
 - ["*Learning Deep Features for Discriminative Localization*"](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf) 논문에서 제안된 Class activation map의 간단한 구현 (with mnist clutter)
 - [Tutorial of implementing Class activation map.ipynb](https://github.com/aisolab/TF_code_examples_for_Deep_learning/blob/master/Tutorial%20of%20implementing%20Class%20activation%20map.ipynb)
 
-### 8. Tutorial of implementing Sequence classification with RNN series
+### 8. Tutorial of implementing Word2Vec
+- Word2Vec의 skip-gram의 간단한 구현 (김진중님 코드참고)
+- 추후 Word2Vec cbow 구현 추가
+- [Tutorial of implementing Word2Vec.ipynb](https://github.com/aisolab/TF_code_examples_for_Deep_learning/blob/master/Tutorial%20of%20implementing%20Word2Vec.ipynb)
+
+### 9. Tutorial of implementing Sequence classification with RNN series
 - Character level GRU로 가변길이의 영어단어의 긍/부정을 예측하는 모형을 학습
 - [Tutorial of implementing Sequence classification with RNN series.ipynb](https://github.com/aisolab/TF_code_examples_for_Deep_learning/blob/master/Tutorial%20of%20implementing%20Sequence%20classification%20with%20RNN%20series.ipynb)
 
-### 9. Tutorial of implementing Variational Auto-Encoder
+### 10. Tutorial of implementing Variational Auto-Encoder
 - ["*Auto-Encoding Variational Bayes*"](https://arxiv.org/pdf/1312.6114.pdf) 논문에서 소개된 Variational Auto-Encoder의 간단한 구현 (with mnist)
 - [Tutorial of implementing Variational Auto-Encoder.ipynb](https://github.com/aisolab/TF_code_examples_for_Deep_learning/blob/master/Tutorial%20of%20implementing%20Variational%20Auto-Encoder.ipynb)
 
-### 10. Tutorial of implementing Generative Adversarial Net
+### 11. Tutorial of implementing Generative Adversarial Net
 - ["*Generative Adversarial Nets*"](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) 논문에서 소개된 Generative Adversarial Net의 간단한 구현 (with mnist)
 - [Tutorial of implementing Generative Adversarial Net.ipynb](https://github.com/aisolab/TF_code_examples_for_Deep_learning/blob/master/Tutorial%20of%20implementing%20Generative%20Adversarial%20Net.ipynb)
 
-### 11. Tutorial of implementing Conditional GAN
+### 12. Tutorial of implementing Conditional GAN
 - ["*Conditional Generative Adversarial Nets*"](https://arxiv.org/pdf/1411.1784.pdf) 논문에서 소개된 Conditional Generative Adversarial Net의 간단한 구현 (with mnist)
 - [Tutorial of implementing Conditional GAN.ipynb](https://github.com/aisolab/TF_code_examples_for_Deep_learning/blob/master/Tutorial%20of%20implementing%20Conditional%20GAN.ipynb)
