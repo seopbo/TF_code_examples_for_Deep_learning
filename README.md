@@ -50,7 +50,7 @@
 - ["*Conditional Generative Adversarial Nets*"](https://arxiv.org/pdf/1411.1784.pdf) 논문에서 소개된 Conditional Generative Adversarial Net의 간단한 구현 (with mnist)
 - [Tutorial of implementing Conditional GAN.ipynb](https://nbviewer.jupyter.org/github/aisolab/TF_code_examples_for_Deep_learning/blob/master/Tutorial%20of%20implementing%20Conditional%20GAN.ipynb)
 
-### 13. Sentence classification by WordConv
+### 13. Sentence classification by MorphConv
 - ["Convolution Neural Networks for Sentence Classification"](https://arxiv.org/abs/1408.5882) 논문에서 소개된 모형의 간단한 구현 (with naver movie review)
-- [Sentence classification by WordConv.ipynb](https://nbviewer.jupyter.org/github/aisolab/TF_code_examples_for_Deep_learning/blob/master/Sentence%20classification%20by%20WordConv.ipynb)
+- [Sentence classification by WordConv.ipynb](https://nbviewer.jupyter.org/github/aisolab/TF_code_examples_for_Deep_learning/blob/master/Sentence%20classification%20by%20MorphConv.ipynb)
 
